@@ -1,5 +1,5 @@
 public class FirstClass {
     public static void main(String[] args) {
-        System.out.println("master changes");
+        System.out.println("changes");
     }
 }
