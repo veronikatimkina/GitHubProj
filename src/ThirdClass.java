@@ -1,5 +1,5 @@
 public class ThirdClass {
     public static void main(String[] args) {
-        System.out.println("master changes");
+        System.out.println("masterchanges");
     }
 }
