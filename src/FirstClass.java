@@ -1,5 +1,5 @@
 public class FirstClass {
     public static void main(String[] args) {
-        System.out.println("changes from master");
+        System.out.println("changes from Branch1");
     }
 }
