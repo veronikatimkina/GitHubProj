@@ -7,6 +7,6 @@ public class ClassInPackageCloneFirst {
     }
 
     public static void main(String[] args) {
-        System.out.printf("sum = " + sum(1, 2));
+        System.out.printf(sum(1, 2).toString());
     }
 }
